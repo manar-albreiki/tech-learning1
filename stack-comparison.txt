@@ -1,3 +1,6 @@
 Introduction to Stack Comparison
 
 Stack comparison involves analyzing and evaluating different technology stacks used in web and software development. Each stack is a combination of frontend, backend, and database technologies that work together to build complete applications. Comparing stacks helps developers and organizations choose the most suitable set of tools based on factors like project requirements, scalability, performance, ease of development, and community support. Understanding the strengths and weaknesses of each stack ensures better decision-making for creating efficient, maintainable, and future-ready applications.
+MERN vs .NET Comparison
+* MERN is a full JavaScript stack (MongoDB, Express.js, React, Node.js) that offers flexibility, fast development, and a single-language environment, making it ideal for dynamic web applications and startups.
+* .NET is a Microsoft framework using languages like C# for building enterprise-level applications, offering strong security, structured development, and seamless integration with Microsoft tools and relational databases.
