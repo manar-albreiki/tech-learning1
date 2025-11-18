@@ -8,3 +8,5 @@ Mobile applications are software programs designed specifically for smartphones 
 
 desktop application
 Desktop applications are software programs installed directly on a computer or laptop and run without needing a web browser. They often provide powerful functionality and can handle complex tasks such as video editing, programming, or graphic design. These applications may work offline and store data locally unless connected to the internet for updates or cloud services. Examples include Microsoft Office, Adobe Photoshop, and Visual Studio.
+
+update for git hub
