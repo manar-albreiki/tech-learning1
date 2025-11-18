@@ -1,0 +1,4 @@
+Software can be categorized into two main types: system software and application software. System software, like operating systems, helps control hardware and provides a platform for other programs to run. Application software includes programs designed for users, such as browsers, office tools, or mobile apps, to perform specific tasks.
+
+web Applications 
+Web applications are software programs that run through a web browser instead of being installed on a device. They are accessible from anywhere with an internet connection, which makes them flexible and convenient for users. Examples include online banking platforms, e-commerce websites, and email services like Gmail. Web applications are continuously updated by the provider, ensuring users always have the latest features without manual installation.
