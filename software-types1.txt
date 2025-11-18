@@ -2,3 +2,6 @@ Software can be categorized into two main types: system software and application
 
 web Applications 
 Web applications are software programs that run through a web browser instead of being installed on a device. They are accessible from anywhere with an internet connection, which makes them flexible and convenient for users. Examples include online banking platforms, e-commerce websites, and email services like Gmail. Web applications are continuously updated by the provider, ensuring users always have the latest features without manual installation.
+
+mobile application
+Mobile applications are software programs designed specifically for smartphones and tablets. They can be downloaded from app stores such as Google Play or the Apple App Store and are built to take advantage of mobile features like GPS, camera, and touch interaction. Mobile apps can work online or offline depending on their design and purpose. They offer convenience and accessibility, allowing users to perform tasks, communicate, or access services anytime and anywhere.
