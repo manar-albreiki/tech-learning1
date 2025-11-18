@@ -5,3 +5,6 @@ Web applications are software programs that run through a web browser instead of
 
 mobile application
 Mobile applications are software programs designed specifically for smartphones and tablets. They can be downloaded from app stores such as Google Play or the Apple App Store and are built to take advantage of mobile features like GPS, camera, and touch interaction. Mobile apps can work online or offline depending on their design and purpose. They offer convenience and accessibility, allowing users to perform tasks, communicate, or access services anytime and anywhere.
+
+desktop application
+Desktop applications are software programs installed directly on a computer or laptop and run without needing a web browser. They often provide powerful functionality and can handle complex tasks such as video editing, programming, or graphic design. These applications may work offline and store data locally unless connected to the internet for updates or cloud services. Examples include Microsoft Office, Adobe Photoshop, and Visual Studio.
