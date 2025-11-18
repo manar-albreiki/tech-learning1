@@ -1,0 +1,3 @@
+Frontend Technologies
+
+Frontend development relies on a set of core technologies to create the part of a website or web application that users see and interact with. HTML (HyperText Markup Language) provides the structure of a webpage by defining elements like headings, paragraphs, links, and images. CSS (Cascading Style Sheets) is used to style and format the webpage, controlling colors, layouts, fonts, and responsiveness to different devices. JavaScript (JS) adds interactivity and dynamic behavior, allowing features like sliders, pop-ups, form validation, and real-time content updates. Together, these technologies form the foundation of frontend development, enabling developers to build visually appealing and user-friendly web experiences.
