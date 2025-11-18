@@ -1,0 +1,7 @@
+DoNET Stack
+
+Frontend: Blazor or ASP.NET MVC for creating interactive user interfaces.
+
+Backend: ASP.NET Core for server-side logic, APIs, and business rules.
+
+Database: SQL Server for structured, relational data management and security.

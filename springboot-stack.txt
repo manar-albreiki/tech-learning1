@@ -1,0 +1,7 @@
+Spring Boot Stack
+
+Frontend: Angular or React for responsive and dynamic interfaces.
+
+Backend: Spring Boot for RESTful APIs, business logic, and server operations.
+
+Database: PostgreSQL or MySQL for reliable relational data storage and query handling.
