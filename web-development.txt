@@ -9,3 +9,6 @@ Frontend development focuses on the part of a website or web application that us
 
 Backend section
 Backend development deals with the server-side of a website or web application, managing how data is stored, processed, and delivered to the frontend. It involves working with databases, servers, and application logic using languages like Python, Java, PHP, or Node.js. Backend developers ensure that websites and applications run smoothly, handle user requests efficiently, and maintain security. They often use frameworks like Django, Spring, or Express.js to simplify development and organize code. In essence, backend development powers the functionality behind the scenes, making sure the frontend can deliver a seamless user experience.
+
+Database section 
+Databases are an essential part of web development, responsible for storing, organizing, and managing data used by websites and applications. They allow developers to save user information, content, and application settings securely and retrieve it efficiently when needed. Common database systems include MySQL, PostgreSQL, MongoDB, and SQLite, each offering different features depending on the application’s needs. Proper database design and management ensure fast performance, data integrity, and scalability for growing web applications.
